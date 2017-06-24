@@ -1,0 +1,18 @@
+body {
+  background-image: url(https://i.imgur.com/OmEV4N9.jpg);
+  background-size: cover;
+}
+
+.center{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center p {
+  color: #d8c8e3;
+  font-size: 50px;
+  border-style: solid;
+  border-color: #d8c8e3;
+}
